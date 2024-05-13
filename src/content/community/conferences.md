@@ -32,6 +32,11 @@ June 12 - June 14, 2024. Atlanta, GA, USA
 
 [Website](https://renderatl.com) - [Discord](https://www.renderatl.com/discord) - [Twitter](https://twitter.com/renderATL) - [Instagram](https://www.instagram.com/renderatl/) - [Facebook](https://www.facebook.com/renderatl/) - [LinkedIn](https://www.linkedin.com/company/renderatl) - [Podcast](https://www.renderatl.com/culture-and-code#/)
 
+### Future Frontend 2024 
+June 13 - 14, 2024. In-person in Helsinki, Finland
+
+[Website](https://futurefrontend.com/) – [Twitter](https://twitter.com/future_frontend) – [YouTube](https://www.youtube.com/channel/UCaRI1HtkJiOvCgkIddioVcw)
+
 ### React Norway 2024 {/*react-norway-2024*/}
 June 14, 2024. In-person at Farris Bad Hotel in Larvik, Norway and online (hybrid event).
 
